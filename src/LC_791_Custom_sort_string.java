@@ -1,4 +1,4 @@
-class Solution {
+public class LC_791_Custom_sort_string {
   // O(Len(Str + Order))
   public String customSortString(String order, String str) {
     int[] freq = new int[26];

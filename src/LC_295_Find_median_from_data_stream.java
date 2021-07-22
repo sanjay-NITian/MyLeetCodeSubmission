@@ -1,3 +1,5 @@
+import java.util.PriorityQueue;
+
 class MedianFinder {
 
     /** initialize your data structure here. */
