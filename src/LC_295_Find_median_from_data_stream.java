@@ -1,11 +1,11 @@
 import java.util.PriorityQueue;
 
-class MedianFinder {
+public class LC_295_Find_median_from_data_stream {
 
     /** initialize your data structure here. */
     PriorityQueue<Integer> maxHeap = null;
     PriorityQueue<Integer> minHeap = null;
-    public MedianFinder() {
+    public LC_295_Find_median_from_data_stream() {
         // maxHeap=new PriorityQueue<>(new Comparator<Integer>(){
         //     @Override
         //     public int compare(Integer o1,Integer o2){

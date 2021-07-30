@@ -1,4 +1,4 @@
-class Solution {
+public class LC_162_find_peak_element {
 
   // TC : O(logn)
   // SC : O(1)
